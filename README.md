@@ -11,6 +11,7 @@ Lean 4 is both a functional programming language and an interactive theorem prov
 | Episode | Topic | Description |
 |---|---|---|
 | [Episode 01](ep01) | Introduction to Lean 4 | Programming, theorem proving, and detecting false mathematical claims |
+| [Episode 02](ep02) | Install Lean 4 on Ubuntu & Arch Linux | Install Elan, Lean, Lake, and VS Code; create a project and check a theorem |
 
 ## What We Will Learn
 
